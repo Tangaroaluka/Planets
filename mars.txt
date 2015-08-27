@@ -1,3 +1,2 @@
-Zoön has a modular structure, and we are hoping for user submitted modules. This allows Zoön to keep up to date with the fast-moving SDM field in a way a package maintained by a small team of developers can't. Modules are simple R scripts containing a single function and some metadata. They are currently kept here. The inputs and outputs of each module type are controlled. A brief description can be found here. The function BuildModule is used to turn a function in an R session into a module.
+<<<<<<< HEAD
 
-Please note, Zoön is still being developed. We would love you to contribute modules, but can't yet guarantee that there won't be major changes that might break modules. We will try to fix user submitted modules if we break them. 
